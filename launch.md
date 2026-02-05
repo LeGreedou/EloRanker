@@ -1,0 +1,1 @@
+Pour démarrer, lancer le script launch.sh
